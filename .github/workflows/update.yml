@@ -1,0 +1,27 @@
+name: 更新代理订阅
+
+on:
+  schedule:
+    - cron: '0,30 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Fetch and generate
+        run: |
+          curl -s "https://raw.githubusercontent.com/TopChina/proxy-list/main/README.md" -o proxy_raw.md
+          node generate_configs.js
+      - name: Commit and push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --staged --quiet || git commit -m "🔄 Auto update $(date +'%Y-%m-%d %H:%M')" && git push
