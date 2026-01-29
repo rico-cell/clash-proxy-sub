@@ -7,6 +7,9 @@ on:
   push:
     branches: [main]
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -24,4 +27,4 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add -A
-          git diff --staged --quiet || git commit -m "🔄 Auto update $(date +'%Y-%m-%d %H:%M')" && git push
+          git diff --staged --quiet || (git commit -m "🔄 Auto update $(date +'%Y-%m-%d %H:%M')" && git push)
