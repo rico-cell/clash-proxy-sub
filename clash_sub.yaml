@@ -1,6 +1,6 @@
 # Clash 配置 - 自动更新
-# 时间: 2026-06-15 21:59:03
-# 节点: 264
+# 时间: 2026-06-15 23:47:41
+# 节点: 266
 
 port: 7890
 socks-port: 7891
@@ -11,1587 +11,1599 @@ log-level: info
 proxies:
   - name: "🇬🇧英国-1"
     type: http
-    server: 185.245.80.156
+    server: 51.89.153.211
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1Lgu0Z96_KB229pmBXOOH2oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsZ5hmBzagW70-b3qISEHCdxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇬🇧英国-2"
     type: http
-    server: 51.89.153.211
+    server: 185.145.201.31
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3eKPfDR4o-89Gv-sGFLv10xsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dtd3ShILpymXsiosiOj-u71xsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇬🇧英国-3"
     type: http
     server: 38.114.120.157
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3CBawIWCeRSXR2wbXQ_CTXxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtB5F-k0kQXCOF5S3MCWvqNxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇬🇧英国-4"
     type: http
-    server: 57.129.140.187
+    server: 185.245.80.156
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2A88YbIkiJ0NdE4t6KXELrxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Du665P43z97AkNMWY2jjlqPoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇬🇧英国-5"
     type: http
-    server: 185.174.110.2
+    server: 172.99.190.183
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0BGeykQwGpzcqdcKhZ8Ah2oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtCm4j4gzHQBdhhnAZiy0LYoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇬🇧英国-6"
     type: http
-    server: 185.145.201.31
+    server: 57.129.140.187
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3Ip6Pjxw4B2r8BMsxMI_VRxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuKEqieMIhM4CXaQf_waM3Zxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇬🇧英国-7"
     type: http
     server: 198.244.253.161
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1MM5VtwiX3p6oenDqT_Regxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsjdkMLn98vVgqrHkrS6tBfxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇬🇧英国-8"
     type: http
-    server: 78.129.229.29
+    server: 185.174.110.2
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1L3Dt3CLl9HAsTZdA5qHoVxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Duml67yqBO0Edssrwy3CfProXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇬🇧英国-9"
     type: http
-    server: 216.106.188.185
+    server: 78.129.229.29
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3B-0Pdztyc9RG58a3ODA3vxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dv6eSX4LawP7bj3LDAialStxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇬🇧英国-10"
     type: http
-    server: 185.164.139.44
+    server: 139.28.176.106
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2soCNUPPbMkFNaF-EEMSxmxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsAljH0ayF6scp1bHwdaiZOoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇬🇧英国-11"
     type: http
     server: 5.180.211.94
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1LkgODOs6x8c8SR1vj9aaQoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dsm10ervrWMaEtnj-_d2wPZoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇬🇧英国-12"
     type: http
-    server: 172.99.190.183
+    server: 172.99.190.215
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2cyScOu-IroLHiMVyawMRGoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuvUSvhTek-2Bx6TsLRSJw7oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇬🇧英国-13"
     type: http
-    server: 172.99.190.215
+    server: 185.164.139.44
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU084TOfoh5LtN0a_OqPB9rUoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtY9t3WADwLG2-YLLhvkaxBxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇬🇧英国-14"
     type: http
-    server: 145.239.6.2
+    server: 216.106.188.185
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3JVmyaJdLee7Or6zVMKKxooXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DudvuarA5s8VwUf6Qk6d3SFxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇬🇧英国-15"
     type: http
-    server: 88.150.230.5
+    server: 145.239.6.2
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3A0MADCL3514jxkQ6cQUjMoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dtz60UzfohLfGKOpotai6mjoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇬🇧英国-16"
     type: http
-    server: 139.28.176.106
+    server: 88.150.230.5
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0f3m3v1T2VAF_3-Zm3oml_oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvIihpJj_hpABO43CIV6SQVoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇺🇸美国-1"
     type: http
-    server: 130.195.212.66
+    server: 146.70.228.82
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU39I0B9PBfQK_mLLQDIdqbBxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfMB_6rMT13SgplajxKkM8jxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇺🇸美国-2"
     type: http
-    server: 162.249.172.18
+    server: 130.195.212.66
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0YNbb-WfFxM96Ib4n4BCk1xsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjco8wD5BfcH-9FWdJdFiWJPxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇺🇸美国-3"
     type: http
-    server: 146.70.228.82
+    server: 167.17.66.82
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU09noWej4CqTWBq4T6350y3xsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfMyVw7H5nnnZYzWfSxLP_Sxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇺🇸美国-4"
     type: http
-    server: 169.197.142.208
+    server: 162.249.172.18
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3xomHNtF66fa0sMgiRtlGhxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcKF1-TNKkrFgBpYzsCBDWgxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇺🇸美国-5"
     type: http
-    server: 169.197.83.34
+    server: 38.68.134.126
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0waAn9sJbyX-SG6LzmaZidxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjeDUCfhswSy1XYD-R3QRtxGxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇺🇸美国-6"
     type: http
     server: 169.197.85.170
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0bPFNrcTCwvgzTmVRQr0m4xsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfZygGJvdy07YuzNxFiHP8Lxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇺🇸美国-7"
     type: http
-    server: 38.128.66.22
+    server: 169.197.83.34
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1xV76BxZdq-uxSc8-Q-9jFxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcP8qyJUXWCRYYVfW6LS7qaxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇺🇸美国-8"
     type: http
-    server: 169.197.142.119
+    server: 38.128.66.22
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1Izk1HbNawnkzu6yH2nREDxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjeXkU6lbLGdjNo7qa75iemdxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇺🇸美国-9"
     type: http
-    server: 38.68.134.126
+    server: 169.197.142.208
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0DCR45di4NjpwD2SsbEy5Vxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjeJp6RXWCBO3raUgZF9PXHMxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇺🇸美国-10"
     type: http
-    server: 162.251.62.66
+    server: 169.197.142.119
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3EeRAkPkmI086S_wm2Tkcyxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfqZDWcQSE8uubci5_gzfw_xsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇺🇸美国-11"
     type: http
     server: 23.154.136.106
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU02pUu6NERH5QSHaPwH49Dcxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjeEnb2nnLkr0Q2etgmBWMqaxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇺🇸美国-12"
     type: http
-    server: 169.197.85.174
+    server: 162.251.62.66
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2xQ5UYJ475oXZITKto8RSFxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdapAsDCIbwDzvtevF-Gldhxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇺🇸美国-13"
     type: http
     server: 169.197.85.173
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU06TG2eGs-U5IvjF_ZqpvUMxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdY3XJKGKmrOsd2ae-qmzAYxsnp5o63PElOVpFduiCmYA=="
+    password: "1"
+  - name: "🇺🇸美国-14"
+    type: http
+    server: 169.197.85.174
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjeEpJWH5yeUAtcy_Zp7FbuBxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇩🇪德国-1"
     type: http
-    server: 193.108.116.229
+    server: 23.160.72.36
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3bY8b665y-pN1zWe5TRGLaxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Du5vkn4XUO4BndJmMy8RXgNxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇩🇪德国-2"
     type: http
-    server: 193.108.116.247
+    server: 23.160.72.212
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1PsB--eRK_386-5Yd4sB0Hxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvDjcu-BCGOU3LDV-Syb10_xsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇩🇪德国-3"
     type: http
-    server: 23.160.72.36
+    server: 23.160.72.201
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1WZ30DCMXiUC5DLhFIbe49xsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvLVJT43-IwDv8h_VC7Y4pvxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇩🇪德国-4"
     type: http
     server: 89.163.221.18
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1Uutq2jF5JNhjS8xOhhk7sxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DscJRmJOaA3fxtYDrKWMghWxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇩🇪德国-5"
     type: http
-    server: 23.160.72.201
+    server: 193.108.116.220
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1NjQQ7ifm1xwE3hjRYD7Wpxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dv36F_a3RO7ZZZ2hDQkVCgixsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇩🇪德国-6"
     type: http
-    server: 51.38.117.70
+    server: 193.108.116.229
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1xMNxdECsm6n9Gl0VdowFvxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvzKH6egavdQ90mwdEIsvpTxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇩🇪德国-7"
     type: http
-    server: 193.108.116.220
+    server: 51.38.117.70
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1SFf7dkvU_lRQ9zby28OsFxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtFRy2pdAajOoynl3orCk7pxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇩🇪德国-8"
     type: http
-    server: 89.163.220.35
+    server: 51.38.122.100
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU186MvzVj5DxpIaKxp2lUETxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DswjOORUhQNu4NLRiaKtolHxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇩🇪德国-9"
     type: http
-    server: 51.38.122.100
+    server: 193.108.116.247
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3tQ8smTLgcBfj5sZboYtM3xsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Du2ID-pfyBf75hmbjxw02M7xsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇩🇪德国-10"
     type: http
-    server: 23.160.72.212
+    server: 23.160.72.54
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3jgKsgElOu9KKjUGTwf2Vfxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dt4m-RqHcKwNok2RS_Gnci1xsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇩🇪德国-11"
     type: http
     server: 5.104.107.251
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1ODOpX_CK1-97eC1Wxz3wToXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dv530dpvai_UT8pZuReODnDoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇩🇪德国-12"
     type: http
-    server: 23.160.72.54
+    server: 89.163.220.35
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0wx943XHzWrG7zPlp8tEWHxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Duo1Ni0FVuCDJfLxzoysc6pxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇦🇺澳大利亚-1"
     type: http
-    server: 144.48.37.141
+    server: 144.48.39.114
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2nJAxxjFXOcUtuWCvB8TNmxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuVhyq4MPj3UV9F-C72TX0aoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇺澳大利亚-2"
     type: http
-    server: 103.108.229.143
+    server: 144.48.37.141
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0Q4rpQsFXRtieqpo0eEnypxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dvv19hTjYwx3IQGADomltasxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇦🇺澳大利亚-3"
     type: http
     server: 144.48.38.146
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2-tupOkkeeD63a27Fyi6Bvxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dubrrkrlyhv7VzPfKqsD31Rxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇦🇺澳大利亚-4"
     type: http
-    server: 182.54.232.23
+    server: 144.48.37.111
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0sM3ENQpQOfVmDxUpBaxB6oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvQVaxNWPPzs408EP1nUUFPoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇺澳大利亚-5"
     type: http
-    server: 144.48.38.138
+    server: 103.108.229.143
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2fazFVd3EgyGGmezDRd829xsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsGDRECcqeAh3s-COyvlJAJxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇦🇺澳大利亚-6"
     type: http
-    server: 144.48.39.114
+    server: 182.54.232.23
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1UMddk21gdCkJYq2hcd-duoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtUSH79doeqa57xqtBY-QVhoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇺澳大利亚-7"
     type: http
-    server: 144.48.37.111
+    server: 144.48.38.138
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1pkvdGH9OArFqkmPrs31_toXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DspTSutbRe6uw_B_ellcdtxxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇦🇺澳大利亚-8"
     type: http
-    server: 45.125.247.13
+    server: 144.48.38.35
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1kru4VeJBg39W6QXfCYhr5oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DslI178KvL3yX7OjiOFIcu3oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇺澳大利亚-9"
     type: http
-    server: 45.248.77.67
+    server: 45.125.247.13
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1bEZwOKjjqhRV7xM4FFCEmoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuVUkMjfDTgevR9lOP7OAzBoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇺澳大利亚-10"
     type: http
-    server: 144.48.38.35
+    server: 139.99.148.8
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0F_XjIZhAI8S04o_A9whXDoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DupBtZ-JOOCzsptlwcKmqRToXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇺澳大利亚-11"
     type: http
-    server: 139.99.148.8
+    server: 45.248.77.67
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2AgGXd81RJ2yi13IlSru1toXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvHOcWQvhp5nOy0MqYEV4lqoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇷阿根廷-1"
     type: http
     server: 190.103.177.162
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0JCI-j7OJLHbCggrE4zjBixsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvyL01Wc8M7S_CFS8jOJvVyxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇦🇷阿根廷-2"
     type: http
-    server: 38.165.230.210
+    server: 38.165.230.130
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU39MODg2nVhh-FlTQbwwFopoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsA5qLPhxa4z05XWGP6R9Etxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇦🇷阿根廷-3"
     type: http
-    server: 103.50.33.186
+    server: 38.165.230.218
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3KYTwpofC92sneyhjZYSiwoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsSW6VEM-m2jZgvPbJlVQ9EoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇷阿根廷-4"
     type: http
-    server: 103.50.33.107
+    server: 103.50.33.200
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3A1N2zVa7CH0wiYq-Eh64toXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuNOn4AUfz7R8o-AZhSkw2XoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇷阿根廷-5"
     type: http
-    server: 103.50.33.200
+    server: 103.50.33.186
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3BIfqnAtisicMndw_r2K8hoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Du2aXCuxIF7E8n9EO3liRmsoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇷阿根廷-6"
     type: http
-    server: 38.165.230.130
+    server: 103.50.33.21
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2iqq2jpjV3FWNnWDipoVkZxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Ds6vmOOwkCfCsWmbR_HOZSEoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇷阿根廷-7"
     type: http
-    server: 38.165.230.218
+    server: 38.165.230.210
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0yVFeU3z-yoRhexoKOWX3joXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvjlWOeqnU6e6IH_jh65kIZoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇷阿根廷-8"
     type: http
-    server: 38.165.230.194
+    server: 103.50.33.107
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2PLYpfNbd4pmEE-DIMQHhVoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DugQg7tG-e-ZAWYcT1T1geIoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇷阿根廷-9"
     type: http
-    server: 103.50.33.21
+    server: 38.165.230.194
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2BVI49nV0OxQyvyoo4Er5OoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsBcn1nOetCqqNOwYeF-YdKoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇦加拿大-1"
     type: http
-    server: 173.209.63.146
+    server: 67.43.236.226
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3fUAt0qwm8OsWxYirSZa25xsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvB_WygKABJSjX_Vpd_sDFGxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇨🇦加拿大-2"
     type: http
-    server: 67.43.236.226
+    server: 148.113.221.150
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0ivl2Uy3upE3Ey9UkRGMI2xsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtI3I8aCp8FCNzWZFbXjoM_xsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇨🇦加拿大-3"
     type: http
-    server: 148.113.221.150
+    server: 104.245.146.82
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0xoMgST-4Q7ZWm2thUYhukxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dsq8yUfD0l7wrc0B1jA8DY8oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇦加拿大-4"
     type: http
-    server: 173.209.51.250
+    server: 173.209.63.146
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2Xx57EjFryDDo_uF8F3aUooXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dse-BHZH9VhmqgBlK9YD5ffxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇨🇦加拿大-5"
     type: http
-    server: 148.113.221.152
+    server: 173.209.51.250
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0z4oGySmRIa4ZDDndNbzGgxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtdnH8t3JLJxKOW7Nt82R9ZoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇦加拿大-6"
     type: http
-    server: 104.245.146.82
+    server: 173.209.48.162
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3x3FrFN3trjizu12TFF5wsoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dtjfn8__XIPUuMo-8m8a09moXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇦加拿大-7"
     type: http
     server: 135.84.180.228
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3jNSM20P8uhe1FTblcEb0ooXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsjOzEB-XelcECamTQu17GvoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇦加拿大-8"
     type: http
-    server: 173.209.48.162
+    server: 148.113.221.152
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3CaI9vbEk43nchnu768rP0oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtK0nNryJH5PYi836YZnBWOxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇨🇦加拿大-9"
     type: http
     server: 173.209.49.50
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1fn0eOHAJJ8lBLn1ec2JQooXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dt2Zv_dSFQ5wbXgMQSSEFyBoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇷巴西-1"
     type: http
     server: 177.54.157.16
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2vwfGmK4yyTZIIB57NFTAnoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dtkw2Yds3HKMor0hWLAm6sPoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇷巴西-2"
     type: http
-    server: 177.54.146.84
+    server: 177.54.147.116
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0mX1uq2UCPycaLt--9dj85oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsLRbplviBRIp4HGXd_4F_joXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇷巴西-3"
     type: http
-    server: 140.174.187.15
+    server: 189.1.173.19
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0gQnStT7CRMxenDfJaiSJvoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvnF5E_gfnF7rtSx04y-87IoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇷巴西-4"
     type: http
-    server: 177.54.147.116
+    server: 108.181.68.187
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU04HZWCqdumMgMCULkx2b8EoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsRAec4Hn4oZnzeGTB1GEvYoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇷巴西-5"
     type: http
-    server: 140.174.187.17
+    server: 140.174.187.15
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0q027Rrki0GGs_w4iX6THUoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtINRPobtMxIvWI3M2dTNmMoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇷巴西-6"
     type: http
-    server: 189.1.173.19
+    server: 177.54.146.84
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0YCOiSkLVugF0K4W3joRUzoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsT8rrItyGUqqUBYFhO2tEXoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇷巴西-7"
     type: http
-    server: 108.181.68.187
+    server: 140.174.187.17
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3ni8-l7ODhVeSbC9WkIR_moXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dtoqcn2qyTWBvfTmzxoe3kmoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇯🇵日本-1"
     type: http
-    server: 103.108.230.50
+    server: 180.149.230.197
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2QUuh_HSMcFf_lD7-5y1faoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdx0FAUMEAJNp_Er9tpTjWTxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇯🇵日本-2"
     type: http
-    server: 180.149.230.169
+    server: 103.108.230.50
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3J3blZHMuUUwhj7m5nEidGoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfKlW1RkgjsHW1PYr1AlCGooXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇯🇵日本-3"
     type: http
-    server: 103.108.230.51
+    server: 103.108.230.52
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1jhVDhJ8DTvhdQCellxQ_ooXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdVoV9160Q5vNdjgvLSZYlRoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇯🇵日本-4"
     type: http
-    server: 180.149.230.241
+    server: 103.108.230.51
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU39AbydlY6g41L3l35b9djxoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcrYTp0odB4lDnu0MuxJc6BoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇯🇵日本-5"
     type: http
-    server: 180.149.230.197
+    server: 180.149.230.241
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0GYw0SzEsGl0pzUiK1Gd04xsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfqDXpYLiDhuwJ1FHohHm8moXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇯🇵日本-6"
     type: http
-    server: 103.108.230.52
+    server: 180.149.230.169
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2SZ-_JSYNfG3bwHadKvCfJoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjf3kx77hBhL7ghS1U7AJkbroXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇯🇵日本-7"
     type: http
     server: 103.108.230.31
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU208-55MZmj9OWmSgrx0gKJoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjf0_XZwLZ_4BlBqLGHHNtSToXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍卢森堡-1"
     type: http
     server: 23.109.137.14
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1Sd5vVTwu8M-LPiz61AG6YoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjc_XPqmARtgFnYu725Za_3ToXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍卢森堡-2"
     type: http
-    server: 23.109.136.154
+    server: 23.109.136.82
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU10Fa9q590N0otShBbbdSXCoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjeNC4vrnJnI3JQJXUgZc5QqoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍卢森堡-3"
     type: http
-    server: 23.109.136.82
+    server: 23.109.136.154
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0HQ1MKhfNbQpNAOqpSAE7DoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjekBTpZl4vlGst7Z5X5fimhoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍卢森堡-4"
     type: http
     server: 23.109.136.146
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2EUWaR6NhKdfvLTdAqTjPsoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfVJPalibKWGBrcYKu2ArBjoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍卢森堡-5"
     type: http
-    server: 23.109.136.58
+    server: 23.109.136.54
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1TNVxhBBtM8_k8ulNwI7uooXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcwO-OaYub7bJZI5OmqOJGOoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍卢森堡-6"
     type: http
-    server: 23.109.136.54
+    server: 23.109.136.58
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU05GwGEzGPbEOPuR-yk2DoioXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjeFS_Y-wCHKHCfecqHae2oloXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇪🇸西班牙-1"
     type: http
-    server: 140.174.184.53
+    server: 167.17.71.36
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3rw-ScNS0JNTgIdD_Rmta_oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvmkjYQwWaPOLzJqAA7E6o_xsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇪🇸西班牙-2"
     type: http
-    server: 167.17.71.36
+    server: 188.164.196.6
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU32Rvt0SHzudO3bk49rCeGfxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DttE9wrKaLoWxuRJPeblrg5oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇪🇸西班牙-3"
     type: http
-    server: 188.164.196.6
+    server: 140.174.184.53
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1ktDr8lFWhT7OBe-SOXmdOoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dv8jlRG2FSwTwtp8pul76vwoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇪🇸西班牙-4"
     type: http
-    server: 66.163.118.37
+    server: 108.181.121.42
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3kzAbSLjhrqPSeOyAgCvYExsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DstnxBjU4fRoq0RR4JUKiY8oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇪🇸西班牙-5"
     type: http
-    server: 108.181.121.42
+    server: 66.163.118.37
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1f5IvqISUkSqCLuA30LR0_oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvAT3_0IDOTn-ANVjpjOIYCxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇮🇳印度-1"
     type: http
-    server: 148.113.47.56
+    server: 148.113.0.104
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3BykLzaknASn9rlFPnry5boXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuMB5AxxBSPQXCISp94VR8eoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇳印度-2"
     type: http
-    server: 148.113.0.105
+    server: 148.113.47.56
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3vQpbAjP-b9b73cWmPyEgvoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuoDENyCtI4LzomeTCfNlJ_oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇳印度-3"
     type: http
-    server: 148.113.47.86
+    server: 148.113.0.105
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU33izB-E6cpzEh4gl3EA9kCoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvbzWgGsKXO_kUw9sbZauyOoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇳印度-4"
     type: http
-    server: 148.113.0.104
+    server: 148.113.47.86
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2MddkeIkWKBZCLsqlXrCWEoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsA3ptEeOVQAMNl0eb1BfGIoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇳印度-5"
     type: http
     server: 62.72.41.69
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0_Aa0NKpMq_6vHiOnsswLxoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Duv8-qeOWzl6sZjIFZDJPyRoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇪比利时-1"
     type: http
-    server: 37.120.236.26
+    server: 89.249.73.26
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3QqmP1OTXJ5uNJC3BKR1uioXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtepGv-F1nhnzrMjW_KT6ncoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇪比利时-2"
     type: http
     server: 146.70.176.222
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0hh7bMYQiRJDaZNY4oPaowoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvPF1oaj6X3uk4m4m4xKC2woXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇪比利时-3"
     type: http
-    server: 45.128.133.202
+    server: 37.120.236.26
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2RrwUeZxVwc1VBc1D6Fs4BoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtDzb4wAjOp1hA61aNlPtXxoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇪比利时-4"
     type: http
-    server: 89.249.73.26
+    server: 45.128.133.202
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3jKAkwvcSH6HAlCtcTnVGxoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dt6eJNBtvGYhsiprPulpcukoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇭瑞士-1"
     type: http
-    server: 146.70.135.14
+    server: 208.69.78.7
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1OWbn1d78yA2H1D_OQOFO6oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DviqmwgEqH_TF7ca7krB1AKoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇭瑞士-2"
     type: http
     server: 179.43.152.90
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3asC2WRjue5X1nlKo_oxwEoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvIqZDx0YgcMgL8M16PEgapoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇭瑞士-3"
     type: http
-    server: 66.163.116.199
+    server: 146.70.135.14
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU24HTPMOy0uAuV9qBsAtXjVoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DseJkPGrdgzF0dqsj7VlgCYoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇭瑞士-4"
     type: http
-    server: 208.69.78.7
+    server: 66.163.116.199
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU29AFvrWBzpphYB4PX6BlIEoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuiLnrJ-rqsUu6ayOTxwh-EoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇩🇰丹麦-1"
     type: http
-    server: 146.70.42.202
+    server: 193.36.116.234
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1QDzf8Xs5PfttozYF41ctRoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dsu3-ai4BNTIk6KY37POgK3oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇩🇰丹麦-2"
     type: http
-    server: 89.45.7.250
+    server: 82.103.131.250
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2P-_1U0AWhNRWCdWETJ-uKoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuhYj-43X48cym0nmly9ehwoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇩🇰丹麦-3"
     type: http
-    server: 193.36.116.234
+    server: 146.70.42.202
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1oFWJCuPByvgw8f5GzCYpBoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dtj6u0e2M1KuUHO_lcGuMAtoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇩🇰丹麦-4"
     type: http
-    server: 82.103.131.250
+    server: 89.45.7.250
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2lF5dwooeImWjtCoaTsipBoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvUEi4BmUXDcCmJuhvl-H_joXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇫🇷法国-1"
     type: http
     server: 37.187.194.214
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU03Se2AkVpV7reQIxY6qX5xxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvmxDv51DYtKg-pRISrtasexsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇫🇷法国-2"
     type: http
-    server: 51.68.100.204
+    server: 139.64.167.210
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0Bn6Vrq93tRDru0vBMSI3xxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsS12PW3ICOHi5v0r0MamOJxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇫🇷法国-3"
     type: http
-    server: 139.64.167.210
+    server: 51.68.240.51
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3Yop5PjxdpQwcv9Wn9rLkexsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtHv3CASvrYlzB0v7EtCFdTxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇫🇷法国-4"
     type: http
-    server: 51.68.240.51
+    server: 51.68.100.204
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2LcE3GrSQIE16KOcqYcDAhxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Ds8t_N6smOCzjO0-MgQTb5Kxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇳🇿新西兰-1"
     type: http
-    server: 180.149.231.71
+    server: 180.149.231.103
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0vBAGZMFHws-Qr0Esuvc0zoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcOGKLrwoP-zDoPitJJeIxfoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇳🇿新西兰-2"
     type: http
-    server: 103.75.11.41
+    server: 180.149.231.99
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3uIMbWW53Iz-mvrVla_GZ4oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfGRZU14WFBTF80O5Mb_L3PoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇳🇿新西兰-3"
     type: http
-    server: 180.149.231.99
+    server: 103.75.11.41
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1f15oEJiK_IC2lbs4ABciZoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhje6qV67s9GesK0JC7vnh9etoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇳🇿新西兰-4"
     type: http
-    server: 180.149.231.103
+    server: 180.149.231.71
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3ezV7M-ylhRu7w9qCQh_MGoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjd2289KalC2eO-hC0jfgkBzoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇷🇺俄罗斯-1"
     type: http
-    server: 146.70.52.54
+    server: 146.70.52.62
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0N1GzDpsetRq_HP01aIRiJoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjc9jT1KCe_Sw_flnmLpFiBzoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇷🇺俄罗斯-2"
     type: http
-    server: 146.70.52.62
+    server: 146.70.52.54
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1jggw-gtMeKk6hmv3zzAfpoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcxP0xecRSmzB5g_44e1s-FoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇷🇺俄罗斯-3"
     type: http
     server: 146.70.231.130
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0Aq0655zc1xkUdJhNqmjMaoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjc3RbbAwdMztHi_-_2rYN0JoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇷🇺俄罗斯-4"
     type: http
     server: 146.70.52.94
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1zvNP0vsAmLpIQAszYRHGqoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjd_s0cKHrl6ws8NvP_FnPAioXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇸🇬新加坡-1"
     type: http
-    server: 116.251.216.100
+    server: 116.251.217.47
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2uQ3LclUU_Oe3zqVb9-RgnoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdPjxZG1bfWvyW3AxrGGd_qoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇸🇬新加坡-2"
     type: http
-    server: 116.251.217.47
+    server: 103.200.209.250
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2nvmGgOC60cZlEyPXX3cnFoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfIIu7aTocblm8yHBUYxjUvoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇸🇬新加坡-3"
     type: http
-    server: 103.200.209.250
+    server: 116.251.216.100
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1kvb3jpgpAbtMzYp6Ac2f7oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfd8V2GO_7mb56Oq9iGOtiioXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇸🇬新加坡-4"
     type: http
     server: 15.235.145.238
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1OlHdgled6ef1xdL1EnA_moXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfxHGq3Q-M4SH3qk-EN6SjNoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇹🇷土耳其-1"
     type: http
-    server: 130.195.216.2
+    server: 185.169.64.46
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1C8nrMBwcs8UWF7OyGQBmfoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdV71fBMkPU8taYXEMqBqJNoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇹🇷土耳其-2"
     type: http
-    server: 188.213.34.126
+    server: 188.213.34.178
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1yLv8Uut5vh3MgiCSxxLeBoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcbAq2EC-axkYuaiCPjYwMZoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇹🇷土耳其-3"
     type: http
-    server: 188.213.34.178
+    server: 130.195.216.2
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2gXc7ieIuV-h0DEAsW8q-FoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdj8rP7NWzz2wHf688KG-hPoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇹🇷土耳其-4"
     type: http
-    server: 185.169.64.46
+    server: 188.213.34.126
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU180ALSL24l7B_H0EO0BxC5oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcXOKtLKiIVeoECgZmkHkPtoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇹奥地利-1"
     type: http
-    server: 94.198.41.218
+    server: 130.195.222.54
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2d7ufUuNISw3QnDuil_kyDoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dv-n1AIKF5coJqXQeZjwKAuoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇹奥地利-2"
     type: http
-    server: 130.195.222.54
+    server: 94.198.41.218
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2QF7IObgPa-vu3UPh3YEKHoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dt45jIHoGD-KqaO4BOBF8yAoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇹奥地利-3"
     type: http
     server: 94.198.41.242
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2ZXPdfrboxcMC3Fy54ORV6oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Ds7_LB2yUR5imxpDyM_g4wqoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇬保加利亚-1"
     type: http
     server: 193.107.70.113
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3Z1oz_zGmk-Ps6FfebnGpToXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvMUTBAuubHOHoNe-FsOlF4oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇬保加利亚-2"
     type: http
-    server: 37.120.152.186
+    server: 185.216.32.26
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1Cso4z4ZxD99Z29HGKBut5oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvVZsLHJrg_j6CNOkLJuzsAoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇬保加利亚-3"
     type: http
-    server: 185.216.32.26
+    server: 37.120.152.186
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2rE4Ru9-5nSLKIVVEptCEIoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DskBvFMLfU13HPmES2_msC7oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇱智利-1"
     type: http
-    server: 45.250.252.93
+    server: 200.63.100.12
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3GP9pBWWUkearRnwLouuCyoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvFFOsZ1gPSd0x1YhkHZ7LXoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇱智利-2"
     type: http
-    server: 45.250.252.51
+    server: 45.250.252.93
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3js3lDiYYNBO28SrZckPsFoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtYPw3H8GY8pr2K0B3p4WPZoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇱智利-3"
     type: http
-    server: 200.63.100.12
+    server: 45.250.252.51
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU10nkZw4RZbP54ypDG51N6coXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvNErF6ojy76FSHGT0ovGHOoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍捷克-1"
     type: http
-    server: 217.138.220.226
+    server: 217.138.220.94
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2WRbs16xlhJLLs249Y9VhioXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Duua4Qk1plpVmJfSjtO69aMoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍捷克-2"
     type: http
-    server: 217.138.220.50
+    server: 217.138.220.226
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1-KGb-43kd-F93u3MQZT8DoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dvr9B9xxw8IW9zF0dtWNfVWoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍捷克-3"
     type: http
-    server: 217.138.220.94
+    server: 217.138.220.50
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0tCKSXJBP6w4DTET2D_AFWoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvH7w5R3V-uOX3po1QLJzPNoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍爱沙尼亚-1"
     type: http
-    server: 95.153.31.102
+    server: 46.22.223.178
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2NbHxFwuzW6XeMpkCOemsXoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DulSdXFb1sQ2VtlOL2VKegXoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍爱沙尼亚-2"
     type: http
-    server: 46.22.223.178
+    server: 95.153.32.34
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1_pfA2vu-4ZC7rS6QzVK5PoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuRJyCJD1MPk2zHERcHWVPzoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍爱沙尼亚-3"
     type: http
-    server: 95.153.32.34
+    server: 95.153.31.102
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0jHtK0wNusgQW72xxNG30roXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🇭🇺匈牙利-1"
-    type: http
-    server: 185.252.223.226
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3f99u5EjZyx7-AAuYevzm5oXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🇭🇺匈牙利-2"
-    type: http
-    server: 185.252.223.210
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1pqDU5p56pkyWjYNuSy4QAoXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🇭🇺匈牙利-3"
-    type: http
-    server: 185.104.187.130
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU19p0VPcHH56cootKV990ngoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtQm1Gg6HLisFl5MYkcoYn-oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇩印度尼西亚-1"
     type: http
     server: 45.64.98.114
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2j0wXw8jDVrRL1BlMwbGBjoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dv828OtqEdfoXltSJ-tK9OVoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇩印度尼西亚-2"
     type: http
-    server: 202.162.204.223
+    server: 202.162.204.214
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2BRVW5walABLph40jiri0YoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Ds31bjO98sOPSdoj8neJ3rZoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇩印度尼西亚-3"
     type: http
-    server: 202.162.204.214
+    server: 202.162.204.223
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3S5HQpV9wdKIIKRccDf1tfoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsmrGQWv2LjFBepErqO0PsooXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🇭🇺匈牙利-1"
+    type: http
+    server: 185.252.223.226
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuA9-NoHERP6TJL-EFs7WuBoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🇭🇺匈牙利-2"
+    type: http
+    server: 185.104.187.130
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvcDtrrsTqe2PoT-tTqK2H_oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🇭🇺匈牙利-3"
+    type: http
+    server: 185.252.223.210
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvC_tUmX95wsLNoCN2aOIx3oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇱以色列-1"
     type: http
-    server: 185.253.73.216
+    server: 182.54.236.193
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0fpWLEEIIMzqPemIgZIa_ToXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Ds4yXgJ7xthhtrSJ5sAxptloXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇱以色列-2"
     type: http
-    server: 182.54.236.193
+    server: 185.253.73.216
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3pLxsNPZduOvNiVpHxcVFUoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtNBko2EUQgLSlmKEhiQMi2oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇱以色列-3"
     type: http
     server: 182.54.236.194
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0-0ydIZAwQjNZYBPh0Nz_qoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvKQ6-vovlPEbhjybA1ML3CoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇹意大利-1"
     type: http
     server: 91.193.5.182
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1oUR1deD2D_9sUX05Nfm-zoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Du5Rsms2dRDE-YoW3jtsa3UoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇹意大利-2"
     type: http
-    server: 66.163.119.139
+    server: 216.106.191.184
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0D0_d-PS9cnI9_tT82L0BtoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsyiwE3PJfoIFVZAJt19ynfoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇹意大利-3"
     type: http
-    server: 216.106.191.184
+    server: 66.163.119.139
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1TBUJwR9BVSq5Eh1_gbxpzoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjeJVdyhSPiRDIaR9Yv3wm06oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇰🇷韩国-1"
     type: http
-    server: 140.174.179.129
+    server: 79.110.55.34
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2aUWMYxHYSKiqvjC4diKwgoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfjBr5wk1nQUX26sbBj1yVAoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇰🇷韩国-2"
     type: http
     server: 61.255.174.11
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1NK7qXSckftMkYF2TadYzKoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfsi93CqlDZCnEh3VjGpku4oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇰🇷韩国-3"
     type: http
-    server: 79.110.55.34
+    server: 140.174.179.129
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3yW41h17iBaAk71LC9-xyPoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhje_D49L-Us5OzK9iNM2MSduoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇲🇾马来西亚-1"
     type: http
-    server: 202.73.12.14
+    server: 202.73.12.60
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU25hRJs3nF-azSlTFDE-oWioXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjemsZuqIsLszFk4afdfdoX9oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇲🇾马来西亚-2"
     type: http
-    server: 202.87.221.113
+    server: 202.73.12.14
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2nel9IV4HAYItn-0eJ77OvoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjc599YKUsX2AukKnrGUE_3VoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇲🇾马来西亚-3"
     type: http
-    server: 202.73.12.60
+    server: 202.87.221.113
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0IFjK4_R8qvYsWkW9OCuCGoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjf-9ZPZrRTsLSEgQjrm4h68oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇳🇱荷兰-1"
     type: http
     server: 172.99.188.95
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0eZReiI5CNj1dpLRiWvNfzxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjc0HVPfGQ3bF3Xz6lUoLy3Exsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇳🇱荷兰-2"
     type: http
     server: 167.17.70.173
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2hAOfwJ3vJuy0298HJwTJkxsnp5o63PElOVpFduiCmYA=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdkaITKCnZq7QZFN6nzLzPzxsnp5o63PElOVpFduiCmYA=="
     password: "1"
   - name: "🇳🇱荷兰-3"
     type: http
     server: 51.15.16.66
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1cTXszPAfup5oBEUbwXAJioXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdauPynRRve4rDf67YL7ZlhoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇳🇴挪威-1"
     type: http
-    server: 83.143.82.62
+    server: 185.181.61.141
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1LdelLoONU4MwyLYQ_vWJPoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjedjeDExGtXtf3OZ5ihoHCFoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇳🇴挪威-2"
     type: http
-    server: 185.181.61.141
+    server: 83.143.82.62
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2qyl59fQDFKJCAKmQ0If-ZoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdsoe2cb-5WHLBJFPUCiWKeoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇳🇴挪威-3"
     type: http
     server: 83.143.82.58
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU12dygMWBtFDD1-v5Z9Qg8ToXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcgGEfu3a38XH9pe4xIAwrwoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇵🇱波兰-1"
     type: http
     server: 57.128.235.172
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1Rr480moswhoK-4tB0Pf8joXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhje6R8cr8frhXyrvUPQmMIbjoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇵🇱波兰-2"
     type: http
     server: 57.128.235.170
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3A-Knokn-hf9cdw-y3k0XLoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjc8OR6SxG3kWZzTaJPBVdlpoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇵🇱波兰-3"
     type: http
     server: 151.115.88.238
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3p0IXv96pFWC44-U7obS_3oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjddkwnzfSEzJdUb-nRREZFgoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇵🇹葡萄牙-1"
     type: http
-    server: 185.113.140.45
+    server: 185.113.140.26
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU13GoXbsRY9RMd7OgsS07NroXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfTSlTC2dL9ieQcNoOKLC-VoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇵🇹葡萄牙-2"
     type: http
     server: 185.113.141.65
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3aNe_fd8enTlsL3IXsYR_hoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdXAa-kt02UCjoP919kRy6WoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇵🇹葡萄牙-3"
     type: http
-    server: 185.113.140.26
+    server: 185.113.140.45
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU36SFdvulwmKHbtqWUhOsV5oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdH08NyRGc3TLUtzrXV-8MPoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍斯洛伐克-1"
     type: http
     server: 165.231.211.122
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU14qzMFEMUTmYbXpL1Nye6foXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhje--2cyd3Rug8eH16ezLGonoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍斯洛伐克-2"
     type: http
-    server: 193.37.255.2
+    server: 185.245.85.126
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU37y6JGkfIBZ0fOwUGiFFIloXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjf_9y-WxjYh2VME0BupzpeyoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍斯洛伐克-3"
     type: http
-    server: 185.245.85.126
+    server: 193.37.255.2
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0NG6Q435in8uxPLkIVBGlmoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfhUtXX7NTEN287uT-CFt6_oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇺🇦乌克兰-1"
     type: http
     server: 176.103.50.127
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0Lh9lMgBjVYVb6bBZgsN2UoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdLyTyVeRKladrlLDU4xFtWoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇺🇦乌克兰-2"
     type: http
     server: 176.103.54.71
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0N9ImcjVUKhS9-Zu8iL3mLoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhje2GDO9lz1lc4aC5GQwvS7xoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇺🇦乌克兰-3"
     type: http
     server: 91.234.6.115
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2RwjCnvoW4AT7Dwrf77PzUoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjeza2K8c62_pvmTfWCmYWIQoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇪阿拉伯联合酋长国-1"
     type: http
-    server: 146.70.241.122
+    server: 5.42.206.146
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU35tEwIu7DsBH7PcI992bzJoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuDEflePDAYb_TYsDP6ZdwZoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇦🇪阿拉伯联合酋长国-2"
     type: http
-    server: 5.42.206.146
+    server: 146.70.241.122
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3UjmjKiww-ETMv3MUu4AYXoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dv_iEf8k2mNNa2l7q2-ftG3oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🇨🇷哥斯达黎加-1"
+    type: http
+    server: 138.59.135.94
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsZo2SgxEKDIFIUe5GrKm6PoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🇨🇷哥斯达黎加-2"
+    type: http
+    server: 200.122.181.11
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuNjWO1Eiw-BlLpMbieJc6YoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇴哥伦比亚-1"
     type: http
     server: 103.219.169.75
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1rio6LV6Vm7QEH3QekA475oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Du9EchjROUc4Ev0bMdIA3GzoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇴哥伦比亚-2"
     type: http
     server: 138.121.203.146
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3qLwqc1z-fPmpb_aH8rQDQoXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🇨🇳中国-1"
-    type: http
-    server: 43.252.167.94
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0vRLUp7h53HBoZxOTKwzGRoXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🇨🇳中国-2"
-    type: http
-    server: 43.252.167.96
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU05AF-vRzh0JYEzTYDzn20toXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dv5u-ybf4Tq9iXDpj5dxvO1oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇾塞浦路斯-1"
     type: http
     server: 157.97.132.199
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2KdC2zs_Ig3owzGNSZvq6xoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dvpu2cZNuF0L9Bo0Ifb_qWXoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇾塞浦路斯-2"
     type: http
     server: 185.191.206.100
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2xNdrEt0QUWCa6-VZ3uB2CoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuzHbdO1Sht1KArfIU8ytxcoXw609MC0WdYefYZbCn32A=="
     password: "1"
-  - name: "🇨🇷哥斯达黎加-1"
+  - name: "🇨🇳中国-1"
     type: http
-    server: 200.122.181.11
+    server: 43.252.167.94
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1GoOP5-y2Ay7s-6hVAcLCdoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Ds-eERN43Lc7iBOWLQgqeFPoXw609MC0WdYefYZbCn32A=="
     password: "1"
-  - name: "🇨🇷哥斯达黎加-2"
+  - name: "🇨🇳中国-2"
     type: http
-    server: 138.59.135.94
+    server: 43.252.167.96
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3GEa-6VEi_ZZM8Gh31W0hyoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsG2Xhhd8ISUiE66TaNctjnoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍埃及-1"
     type: http
     server: 188.214.122.18
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1IFgUUi9AjU-NhkQbwOTJeoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsP5Jh2cn11fltKizM_p9deoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍埃及-2"
     type: http
     server: 188.214.122.162
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2E44N6jLBwT2-0CBaMAqsLoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtQzxRnZb24pdmto2dvq4fuoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍芬兰-1"
     type: http
     server: 83.143.242.74
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1voL2rxB7ieApPMR6ba-hLoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DuGxLTHTjwyk33sbRYVrryEoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍芬兰-2"
     type: http
     server: 194.34.134.21
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3vUnO73rWtP40dy-iAVVQcoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dsq9KWW7jfo_m6v7LvbdOT2oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍格鲁吉亚-1"
     type: http
-    server: 188.93.91.2
+    server: 188.93.90.66
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3LSqa84pErAtaZv9OeDAMRoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dv0ueXNFefoh72E5pE3g0HgoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍格鲁吉亚-2"
     type: http
-    server: 188.93.90.66
+    server: 188.93.91.2
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1Ci0xxIfj8wTrQTRJtCuZ-oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtUXOqClEjFEu0foRUO3r2MoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇬🇷希腊-1"
     type: http
     server: 93.174.121.131
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1dyLN82pdZMx0rSYtES6rloXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsUaiMvEgRyw2IcCivWUHg9oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇬🇷希腊-2"
     type: http
     server: 95.129.46.100
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU10lEASafwOjQqRykEmw-eroXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🌍克罗地亚-1"
-    type: http
-    server: 178.218.162.114
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2PkKbp2NlGkbu9y80V90NxoXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🌍克罗地亚-2"
-    type: http
-    server: 178.218.162.117
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3A1mjhfzCCyzshpz0VFXiKoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dt3ToYJiICn-KSL09Hjm3a4oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇭🇰香港-1"
     type: http
-    server: 61.4.121.186
+    server: 169.150.222.197
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1dVe7kNInimEybiVg49O_hoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsLUUqmz3gK9031B5vWQws1oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇭🇰香港-2"
     type: http
-    server: 169.150.222.197
+    server: 61.4.121.186
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1tSWMzmF0sjeRhSdVhKnVsoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dv0vD50SkfqmgJtK93YHpxsoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🌍克罗地亚-1"
+    type: http
+    server: 178.218.162.117
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DvM7NPOru-vErCW91MFhzzzoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🌍克罗地亚-2"
+    type: http
+    server: 178.218.162.114
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dt-vDOxZ2OWrd_0ycf-6xrjoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇪爱尔兰-1"
     type: http
     server: 185.252.222.170
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0_-OMgtFHeKIcEgefPRriyoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dv3h3C8HpXDxBnYZ_ynOoFvoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇮🇪爱尔兰-2"
     type: http
     server: 188.241.178.86
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1RSESuOtqrTVybVVhNjrlfoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Ds0h57LXoOX92wxiFjbeYW7oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🌍冰岛-1"
+    type: http
+    server: 37.235.49.61
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsybDOs-oFr1dbfrORA1eAEoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🌍冰岛-2"
+    type: http
+    server: 37.235.49.103
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dssn0HfDndNEgjmzm40dkN5oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍约旦-1"
     type: http
     server: 82.212.103.6
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU01uSKDdY2ZBi_kWH1caUPSoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DtjuyqtuI1sXfyt6EN_WnzooXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍约旦-2"
     type: http
     server: 82.212.77.242
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1NYZDNph3lVdVkNUunl1uGoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dv-2eDinZXzAZTON6EgoEo0oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍吉尔吉斯斯坦-1"
     type: http
     server: 91.213.233.111
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3dIEuezapYaDlB0Ft6ZUG-oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfqRDUQ6Lgb6PVITPTDcNoeoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍吉尔吉斯斯坦-2"
     type: http
     server: 91.213.233.176
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3mvEEvg78LynjifY2H1ULroXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhje9hAuPOV6gWq5Zob8UcMEioXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍立陶宛-1"
     type: http
     server: 85.206.168.52
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2nUhWlw9dIgWlb3zcgJERxoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjduSInQJqDa-LmIToHRFX7coXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍立陶宛-2"
     type: http
     server: 93.115.25.31
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3H6ZshS6W5pE6EhMhs8jwCoXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🌍拉脱维亚-1"
-    type: http
-    server: 109.248.149.173
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0ForiTBTT0241lR8bgypz8oXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🌍拉脱维亚-2"
-    type: http
-    server: 84.38.134.139
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3yZ7F55LWBuDObsMpcRxUloXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcOQbqLFnpE5kZ-e7AzWtN6oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍摩洛哥-1"
     type: http
     server: 154.70.207.190
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU36NmVm8ewlOVF4NLkhUNWNoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdkiwbnVve_6mMTadvWEibSoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍摩洛哥-2"
     type: http
     server: 154.70.207.146
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2SnYSRKDDqYn-zPSSNB0YjoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfo4kFkUcSjQgK67HCDXVvToXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🌍拉脱维亚-1"
+    type: http
+    server: 84.38.134.139
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjf80DAvbsRmsbtPxr0NW6TeoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🌍拉脱维亚-2"
+    type: http
+    server: 109.248.149.173
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcKqbuTGx1oR61GY_f0huVJoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍蒙古-1"
     type: http
-    server: 43.231.113.84
+    server: 43.231.114.178
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3T2l-HJK1JovhPU43YwCVVoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjd1DLombyM9LV1wPThC4CftoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍蒙古-2"
     type: http
-    server: 43.231.114.178
+    server: 43.231.113.84
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0ehi_tQDYY_Vd6vNKla1RmoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfIZPXoWnADa8r7BGYGFVeooXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍马耳他-1"
     type: http
-    server: 171.22.254.144
+    server: 171.22.254.19
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0c1ibNaTPznfIgCVuk4AEmoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdKyNBEGFwBHXDNTowWYHoMoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍马耳他-2"
     type: http
-    server: 171.22.254.19
+    server: 171.22.254.144
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2vwTn95PaN52iuu9Q1C8S4oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjesTXydEaXs9RiFqh1FRz2FoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇲🇽墨西哥-1"
     type: http
     server: 201.150.33.188
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1bolzIib5YIRt-mAPnuHt4oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcDHQ_bxk2BAdzuCxvsQeUqoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇲🇽墨西哥-2"
     type: http
     server: 201.150.35.76
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU222AujCCNxhAsJqaJmOoECoXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🇵🇭菲律宾-1"
-    type: http
-    server: 103.103.0.21
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2F9N-PKFyPY2yPRjteC4DxoXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🇵🇭菲律宾-2"
-    type: http
-    server: 112.199.95.186
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3rGVuoAjoS3j8n22PJzbayoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhje8rdU07LtE5Gc6HrOMmnrtoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇵🇦巴拿马-1"
     type: http
     server: 190.97.163.17
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU27SY6vq-7b9SG8VdD0o_AXoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjeL4HnRNZdRAaQAMv7ZIeqdoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇵🇦巴拿马-2"
     type: http
     server: 200.74.244.7
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2X_13h26GYKFl5l_PNkKi4oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcZqUh8TsW4huqMCM-BuEyboXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇵🇪秘鲁-1"
     type: http
-    server: 138.186.143.50
+    server: 190.120.229.196
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0zpl8jH43sCJ691F1lYwTBoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjd33WVp1Hdq5jCnznWI9_dQoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇵🇪秘鲁-2"
     type: http
-    server: 190.120.229.196
+    server: 138.186.143.50
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1ofaKJONFV8wB_z3_jws0noXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfmWdLX3LQ5zdA81EF2iNBEoXw609MC0WdYefYZbCn32A=="
     password: "1"
-  - name: "🌍波多黎各-1"
+  - name: "🇵🇭菲律宾-1"
     type: http
-    server: 38.158.220.26
+    server: 103.103.0.21
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2vJKj1aPJlTAOBQu85tpzqoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdJggMEqR-LBFRIfSBJvHEvoXw609MC0WdYefYZbCn32A=="
     password: "1"
-  - name: "🌍波多黎各-2"
+  - name: "🇵🇭菲律宾-2"
     type: http
-    server: 199.255.116.5
+    server: 112.199.95.186
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1ZI4d9yD0N4w2KOKPeyX4toXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfnvJuhd-F9xuwEvFiYDwQboXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍巴拉圭-1"
     type: http
     server: 38.165.233.7
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1tV_EobXOlD8VZhYonpPWpoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjf9uiBsj-Yqlyaoa1hNTzwtoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍巴拉圭-2"
     type: http
     server: 38.165.233.30
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2WnHG-cUeI2haIYgapl_4roXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjeHOsuwwEpjoWFxTjzMn7OmoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🌍波多黎各-1"
+    type: http
+    server: 199.255.116.5
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjf7oapwCf-vqVcPbFWRg5MjoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🌍波多黎各-2"
+    type: http
+    server: 38.158.220.26
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcqCfKbz5HXDMiULPnVjceqoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇷🇴罗马尼亚-1"
     type: http
     server: 146.70.254.146
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0or-UUbc72SpXHk2bVrbjYoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjeS4cWVYOdWx5qICQs8S8n-oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇷🇴罗马尼亚-2"
     type: http
     server: 188.212.101.130
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2pf126PPD0ODqaWZ3ld_hZoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjeaQuoxh5P-8w-5VKE17icaoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇸🇪瑞典-1"
     type: http
-    server: 84.32.49.221
+    server: 95.143.193.15
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2DuMC3CriWSuWudE4QDpfyoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjeiq0GScUnm0p6MPHB28doVoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇸🇪瑞典-2"
     type: http
-    server: 95.143.193.15
+    server: 84.32.49.221
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0HzWFfygnZ9AEClYBBHBkvoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdZgBn8UqmapszNESUwES1PoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍斯洛文尼亚-1"
     type: http
-    server: 195.80.150.202
+    server: 195.80.150.194
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1qDpUJC467G7qRwzKP4KBZoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjekF9llyDCqCGPbsLqB-Wx9oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍斯洛文尼亚-2"
     type: http
-    server: 195.80.150.194
+    server: 195.80.150.202
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0LOmGsyRTUW1pbTZi3cKBPoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdHbbn4KJ1q-77dg7ubtyHJoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇹🇭泰国-1"
     type: http
     server: 119.59.98.133
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2ziBlJmT_9vzau27QkeWfKoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjf6UKadeXwtAsR67_GJ4EVPoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇹🇭泰国-2"
     type: http
     server: 119.59.98.74
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU33CdF6h2O0PcUKUvu395nsoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdVCBTvxtBuPeMZCGDdFV1-oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇹🇼台湾-1"
     type: http
     server: 185.189.161.137
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3AdQR0QDRkqnlrrBfZ65xLoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfyImGABIsAGH345A3m4L49oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇹🇼台湾-2"
     type: http
     server: 103.4.29.100
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3kYz_QzhlwuycCH_nPiFbZoXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🇻🇳越南-1"
-    type: http
-    server: 103.97.125.216
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU352VWfQiVLZ7EVFmqmRqB7oXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🇻🇳越南-2"
-    type: http
-    server: 103.9.78.107
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1Oq24abH3S8GkD0aGq_daYoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfGfLKA3_mWhj_v7IueF7ALoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍乌拉圭-1"
     type: http
-    server: 179.27.200.30
+    server: 45.228.67.28
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2AiIKHRWqeWpO35cljC_caoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfpBSqbjG0-bd3GJr0IeHnzoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍乌拉圭-2"
     type: http
-    server: 45.228.67.28
+    server: 179.27.200.30
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU11ZFOaK90et_8SE5WOKn3BoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdLv5HVe2xHWnJ7o-xr2FtYoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇿🇦南非-1"
     type: http
     server: 129.232.237.210
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1f1Md9KZPKI90ns0kew5YfoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjf1XNpJ3yTE8CEdueSCr14QoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇿🇦南非-2"
     type: http
     server: 129.232.237.178
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2spakTIMajPT2G6uwQ1I8moXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcecEHRHtPTWuUU4J06QpUsoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🇻🇳越南-1"
+    type: http
+    server: 103.9.78.107
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjc3BeIJ2YEi_-dJABuW12LDoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🇻🇳越南-2"
+    type: http
+    server: 103.97.125.216
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcqwBMumPsgF7nWhPOcNrvHoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇧🇴玻利维亚-1"
     type: http
     server: 190.186.42.50
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0G9jXGPL0Z6br4VbsiOoj6oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dvh-FrW-3yetDf9KcHa0FxkoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇨🇮科特迪瓦-1"
     type: http
     server: 102.220.17.118
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU33m4k2lRdJNc7caQDK8w_6oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dt2MeEAsro32hXS77Avj2a8oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍厄瓜多尔-1"
     type: http
     server: 38.165.231.22
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3NCypFVqdXK7ne3q6FynLQoXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🌍加纳-1"
-    type: http
-    server: 169.255.56.147
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2ckDUmFbB4K_J0clHki9LhoXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🌍危地马拉-1"
-    type: http
-    server: 170.80.111.119
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2cQkxUZy9I_Z8cdLWfNC2soXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Ds-HVHZASTO53rvDgjVQBdPoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍洪都拉斯-1"
     type: http
     server: 190.92.9.46
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2yC2wt09ZBoDdTpooAv434oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Ds0lw2Kf_4LVQRCszw3AiqWoXw609MC0WdYefYZbCn32A=="
     password: "1"
-  - name: "🌍冰岛-1"
+  - name: "🌍加纳-1"
     type: http
-    server: 37.235.49.103
+    server: 169.255.56.147
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3FZ6g4hcVWf2CwKgXuPHBIoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_Dux7dkOYXW2rLL-jsmPeXpLoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🌍危地马拉-1"
+    type: http
+    server: 170.80.111.119
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kcPk5WUh4a_pBfa8Vnue_DsUeVsUhV9YPQP3tG23lba2oXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍肯尼亚-1"
     type: http
     server: 102.68.86.97
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1cNIktCTd5MmuO_9Ypvso6oXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🌍哈萨克斯坦-1"
-    type: http
-    server: 185.120.77.104
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3CoAZnPPqE_rpZCT3blEGboXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdrAlJrAQkypKuYwGNFgMczoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍斯里兰卡-1"
     type: http
     server: 146.70.229.138
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU1lRjn9EkaowvNNZpTMoqY0oXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdvC6imnyPEGz-c3xac1AKwoXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🌍哈萨克斯坦-1"
+    type: http
+    server: 185.120.77.104
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhje74r-UeWWY0ZS1542ifo6OoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍科威特-1"
     type: http
     server: 38.54.124.170
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU33M6sgemypcP6dLYK_padVoXw609MC0WdYefYZbCn32A=="
-    password: "1"
-  - name: "🌍尼加拉瓜-1"
-    type: http
-    server: 131.196.35.40
-    port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU0UEiG4mf0FxR6xF8KKywleoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjdlrl9UA4-ZNB6j2GZbbAXuoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍尼日利亚-1"
     type: http
     server: 169.255.57.58
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2nEfgzmpe94cFZhPFFxVPooXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjczWvzMbQPf4-8YhlyTb5R7oXw609MC0WdYefYZbCn32A=="
+    password: "1"
+  - name: "🌍尼加拉瓜-1"
+    type: http
+    server: 131.196.35.40
+    port: 8081
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjfnvS6g3J6w1nUFUgi8eSFOoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🌍巴基斯坦-1"
     type: http
     server: 103.152.255.235
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU2Q_9DklY3yuf2c91-W-uyyoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjcHwvB5oiZKKCYlbPrRI2RxoXw609MC0WdYefYZbCn32A=="
     password: "1"
   - name: "🇸🇦沙特阿拉伯-1"
     type: http
     server: 146.70.167.70
     port: 8081
-    username: "afY491o7YfK00koaXQD9kbnJl6EQXT6b-2d9zLlSOU3V3OKQ3lOlZesNpkOel0LDoXw609MC0WdYefYZbCn32A=="
+    username: "afY491o7YfK00koaXQD9kchbIBf__4wapdmIkELbhjelczZqHVtL-YcL43Up4yHIoXw609MC0WdYefYZbCn32A=="
     password: "1"
 
 proxy-groups:
@@ -1628,6 +1640,7 @@ proxy-groups:
       - "🇺🇸美国-11"
       - "🇺🇸美国-12"
       - "🇺🇸美国-13"
+      - "🇺🇸美国-14"
       - "🇩🇪德国-1"
       - "🇩🇪德国-2"
       - "🇩🇪德国-3"
@@ -1746,12 +1759,12 @@ proxy-groups:
       - "🌍爱沙尼亚-1"
       - "🌍爱沙尼亚-2"
       - "🌍爱沙尼亚-3"
-      - "🇭🇺匈牙利-1"
-      - "🇭🇺匈牙利-2"
-      - "🇭🇺匈牙利-3"
       - "🇮🇩印度尼西亚-1"
       - "🇮🇩印度尼西亚-2"
       - "🇮🇩印度尼西亚-3"
+      - "🇭🇺匈牙利-1"
+      - "🇭🇺匈牙利-2"
+      - "🇭🇺匈牙利-3"
       - "🇮🇱以色列-1"
       - "🇮🇱以色列-2"
       - "🇮🇱以色列-3"
@@ -1784,14 +1797,14 @@ proxy-groups:
       - "🇺🇦乌克兰-3"
       - "🇦🇪阿拉伯联合酋长国-1"
       - "🇦🇪阿拉伯联合酋长国-2"
-      - "🇨🇴哥伦比亚-1"
-      - "🇨🇴哥伦比亚-2"
-      - "🇨🇳中国-1"
-      - "🇨🇳中国-2"
-      - "🇨🇾塞浦路斯-1"
-      - "🇨🇾塞浦路斯-2"
       - "🇨🇷哥斯达黎加-1"
       - "🇨🇷哥斯达黎加-2"
+      - "🇨🇴哥伦比亚-1"
+      - "🇨🇴哥伦比亚-2"
+      - "🇨🇾塞浦路斯-1"
+      - "🇨🇾塞浦路斯-2"
+      - "🇨🇳中国-1"
+      - "🇨🇳中国-2"
       - "🌍埃及-1"
       - "🌍埃及-2"
       - "🌍芬兰-1"
@@ -1800,38 +1813,40 @@ proxy-groups:
       - "🌍格鲁吉亚-2"
       - "🇬🇷希腊-1"
       - "🇬🇷希腊-2"
-      - "🌍克罗地亚-1"
-      - "🌍克罗地亚-2"
       - "🇭🇰香港-1"
       - "🇭🇰香港-2"
+      - "🌍克罗地亚-1"
+      - "🌍克罗地亚-2"
       - "🇮🇪爱尔兰-1"
       - "🇮🇪爱尔兰-2"
+      - "🌍冰岛-1"
+      - "🌍冰岛-2"
       - "🌍约旦-1"
       - "🌍约旦-2"
       - "🌍吉尔吉斯斯坦-1"
       - "🌍吉尔吉斯斯坦-2"
       - "🌍立陶宛-1"
       - "🌍立陶宛-2"
-      - "🌍拉脱维亚-1"
-      - "🌍拉脱维亚-2"
       - "🌍摩洛哥-1"
       - "🌍摩洛哥-2"
+      - "🌍拉脱维亚-1"
+      - "🌍拉脱维亚-2"
       - "🌍蒙古-1"
       - "🌍蒙古-2"
       - "🌍马耳他-1"
       - "🌍马耳他-2"
       - "🇲🇽墨西哥-1"
       - "🇲🇽墨西哥-2"
-      - "🇵🇭菲律宾-1"
-      - "🇵🇭菲律宾-2"
       - "🇵🇦巴拿马-1"
       - "🇵🇦巴拿马-2"
       - "🇵🇪秘鲁-1"
       - "🇵🇪秘鲁-2"
-      - "🌍波多黎各-1"
-      - "🌍波多黎各-2"
+      - "🇵🇭菲律宾-1"
+      - "🇵🇭菲律宾-2"
       - "🌍巴拉圭-1"
       - "🌍巴拉圭-2"
+      - "🌍波多黎各-1"
+      - "🌍波多黎各-2"
       - "🇷🇴罗马尼亚-1"
       - "🇷🇴罗马尼亚-2"
       - "🇸🇪瑞典-1"
@@ -1842,25 +1857,24 @@ proxy-groups:
       - "🇹🇭泰国-2"
       - "🇹🇼台湾-1"
       - "🇹🇼台湾-2"
-      - "🇻🇳越南-1"
-      - "🇻🇳越南-2"
       - "🌍乌拉圭-1"
       - "🌍乌拉圭-2"
       - "🇿🇦南非-1"
       - "🇿🇦南非-2"
+      - "🇻🇳越南-1"
+      - "🇻🇳越南-2"
       - "🇧🇴玻利维亚-1"
       - "🇨🇮科特迪瓦-1"
       - "🌍厄瓜多尔-1"
+      - "🌍洪都拉斯-1"
       - "🌍加纳-1"
       - "🌍危地马拉-1"
-      - "🌍洪都拉斯-1"
-      - "🌍冰岛-1"
       - "🌍肯尼亚-1"
-      - "🌍哈萨克斯坦-1"
       - "🌍斯里兰卡-1"
+      - "🌍哈萨克斯坦-1"
       - "🌍科威特-1"
-      - "🌍尼加拉瓜-1"
       - "🌍尼日利亚-1"
+      - "🌍尼加拉瓜-1"
       - "🌍巴基斯坦-1"
       - "🇸🇦沙特阿拉伯-1"
       - DIRECT
@@ -1897,6 +1911,7 @@ proxy-groups:
       - "🇺🇸美国-11"
       - "🇺🇸美国-12"
       - "🇺🇸美国-13"
+      - "🇺🇸美国-14"
       - "🇩🇪德国-1"
       - "🇩🇪德国-2"
       - "🇩🇪德国-3"
@@ -1917,7 +1932,6 @@ proxy-groups:
       - "🇦🇺澳大利亚-6"
       - "🇦🇺澳大利亚-7"
       - "🇦🇺澳大利亚-8"
-      - "🇦🇺澳大利亚-9"
     url: "http://www.gstatic.com/generate_204"
     interval: 300
     tolerance: 50
